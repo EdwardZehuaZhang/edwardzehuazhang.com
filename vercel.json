@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/page.html" },
+    { "source": "/writing/design-tokens-101", "destination": "/writing/design-tokens-101/page.html" },
+    { "source": "/writing/hello-world", "destination": "/writing/hello-world/page.html" },
+    { "source": "/writing/how-ai-is-changing-my-workflow", "destination": "/writing/how-ai-is-changing-my-workflow/page.html" },
+    { "source": "/writing/how-to-think-like-both-a-designer-engineer", "destination": "/writing/how-to-think-like-both-a-designer-engineer/page.html" },
+    { "source": "/writing/ui-performance", "destination": "/writing/ui-performance/page.html" }
+  ]
+}
